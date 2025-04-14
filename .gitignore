@@ -51,7 +51,6 @@ load/*/
 *.pth
 *.pt
 *.pkl
-*.log
 *.png
 *.jpg
 *.jpeg
@@ -59,7 +58,3 @@ load/*/
 *.txt
 *.yaml
 *.bat
-*.md
-!README.md
-!LICENSE
-!requirements.txt
